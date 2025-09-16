@@ -1,18 +1,12 @@
 # Projeto IoT — Monitoramento de Partida de Futebol
 
-============================================================
-			Nome dos integrantes
-------------------------------------------------
-Henrique de Oliveira Gomes           | RM566424
+---
+    Henrique de Oliveira Gomes           | RM566424
+    Henrique Kolomyes Silveira           | RM563467
+    Matheus Santos de Oliveira           | RM561982
+    Vinicius Alexandre Aureliano Ribeiro | RM561606
 
-Henrique Kolomyes Silveira           | RM563467
-
-Matheus Santos de Oliveira           | RM561982
-
-Vinicius Alexandre Aureliano Ribeiro | RM561606
-
-------------------------------------------------
-================================================
+---
 
 ## 1. Introdução
 Este repositório contém a implementação de um sistema de monitoramento de partida de futebol, composto por três subsistemas principais: um dispositivo ESP32 simulado (Wokwi), um simulador de telemetria em Python e um painel de visualização em Node‑RED. A comunicação entre componentes é realizada via protocolo MQTT.
