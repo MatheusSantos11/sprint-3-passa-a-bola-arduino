@@ -4,8 +4,11 @@
 	           Nome dos integrantes
 ------------------------------------------------
 Henrique de Oliveira Gomes           | RM566424
+
 Henrique Kolomyes Silveira           | RM563467
+
 Matheus Santos de Oliveira           | RM561982
+
 Vinicius Alexandre Aureliano Ribeiro | RM561606
 ------------------------------------------------
 ================================================
