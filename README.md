@@ -98,6 +98,10 @@ node-red
 - Substituição do broker público por um broker local (Mosquitto) para uso em ambiente restrito.  
 - Implementação de histórico temporal (charts) para análise de posse ao longo do tempo.  
 - Integração com front‑end externo (React, Vue) para disponibilização pública.
+ 
+# Link do video do youtube 
+
+https://youtu.be/HnyHcioT-vk
 
 # Codigo de Arduino
 link de arduino: https://wokwi.com/projects/441818652069016577
